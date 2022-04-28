@@ -9,7 +9,10 @@ Este repositorio contem os trabalhos feitos durante o ensino medio tecnico no se
 
 [print](https://github.com/lahs2301/portfolio2B/blob/main/print.java])
 
-## autorias ##
+## Autorias ##
 ## Quem sou eu ##
+## Currículo ##
+## Autoavaliação ##
+## validação do portífolio ##
 
 
