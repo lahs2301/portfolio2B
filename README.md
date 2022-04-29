@@ -4,10 +4,13 @@ Este repositorio contem os trabalhos feitos durante o ensino medio tecnico no se
 * atividades
 
 [Números primos](https://github.com/lahs2301/portfolio2B/blob/main/n%C3%BAmeros%20primos.java])
+  Nesta atividade fizemos um codigo que contava todos os numeros primos de uma certa quantia escolhida pelo usuario
 
 [criar documentos](https://github.com/lahs2301/portfolio2B/blob/main/criar%20documentos.java])
+  Nesta atividade aprendemos a criar diretorios pelo gitbash
 
 [print](https://github.com/lahs2301/portfolio2B/blob/main/print.java])
+
 
 ## Autorias ##
 ## Quem sou eu ##
