@@ -13,7 +13,7 @@ Este repositorio contem os trabalhos feitos durante o ensino medio tecnico no se
   Nesta atividade fizemos um codigo que fazia o computador conversar com o usuario
   
 ## Autorias ##
-[autoria de desig]
+[autoria de desig](https://github.com/lahs2301/portfolio2B/blob/main/autorias])
 
 ## Quem sou eu ##
 ## Currículo ##
