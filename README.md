@@ -10,9 +10,10 @@ Este repositorio contem os trabalhos feitos durante o ensino medio tecnico no se
   Nesta atividade aprendemos a criar diretorios pelo gitbash
 
 [print](https://github.com/lahs2301/portfolio2B/blob/main/print.java])
-
-
+  Nesta atividade fizemos um codigo que fazia o computador conversar com o usuario
+  
 ## Autorias ##
+
 ## Quem sou eu ##
 ## Currículo ##
 ## Autoavaliação ##
